@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "interfazUsuario/ViewController.swift"
+            timestampString = "555537860.207888"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "interfazUsuario.ViewController.__deallocating_deinit"
+                  moduleName = "interfazUsuario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maestro/Desktop/interfazUsuario/interfazUsuario/ViewController.swift"
+                  timestampString = "555537866.97193"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "interfazUsuario.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; interfazUsuario.ViewController"
+                  moduleName = "interfazUsuario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maestro/Desktop/interfazUsuario/interfazUsuario/ViewController.swift"
+                  timestampString = "555537866.9743119"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "interfazUsuario.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; interfazUsuario.ViewController"
+                  moduleName = "interfazUsuario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maestro/Desktop/interfazUsuario/interfazUsuario/ViewController.swift"
+                  timestampString = "555537866.975611"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "interfazUsuario.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;interfazUsuario.ViewController&gt;"
+                  moduleName = "interfazUsuario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maestro/Desktop/interfazUsuario/interfazUsuario/ViewController.swift"
+                  timestampString = "555537866.9768471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "interfazUsuario.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;interfazUsuario.ViewController&gt;"
+                  moduleName = "interfazUsuario"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maestro/Desktop/interfazUsuario/interfazUsuario/ViewController.swift"
+                  timestampString = "555537866.978072"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "interfazUsuario/ViewController.swift"
+            timestampString = "555539925.119054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "didReceiveMemoryWarning()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "interfazUsuario/ViewController.swift"
+            timestampString = "555538820.965036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
